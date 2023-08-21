@@ -7,4 +7,26 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular_Assessment';
-}
+  
+    message:string='';
+  
+
+    constructor(){}
+  
+    setMessage(newMsg:string){
+ 
+      this.message=newMsg;
+  
+
+    }
+
+    clearMsg(){
+
+      this.message='';
+
+    }
+  
+  }
+  
+   
+

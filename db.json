@@ -1,0 +1,33 @@
+{
+
+  "Admin": [
+
+    {
+
+      "Username": "admin",
+
+      "Password": "admin"
+
+    }
+
+  ],
+
+  "User": [
+
+    {
+
+      "Firstname": "pavani",
+
+      "Lastname":"kumbala",
+
+      "Email": "pavani@hcl.com",
+
+      "Password": "password"
+
+    }
+
+  ]
+
+  
+
+}
